@@ -16,4 +16,5 @@ public class RegisterEntity extends BaseEntity{
 	
 	private String address;
 	
+	
 }
